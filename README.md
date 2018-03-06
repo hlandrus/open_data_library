@@ -1,5 +1,5 @@
 # open_data_library
-This notebook was created during open data day in Seattle Washington. I used publicly available data on the library checkout from the Seattle city to see check out trends for certain books. I searched for a few books and subjects that would be relevant to current events to see if the of check outs of these books changed. 
+This notebook was created during open data day in Seattle Washington. I used publicly available data from the city of Seattle's data portal on the library material checkouts https://data.seattle.gov/Community/Checkouts-by-Title/tmmm-ytt6. I used this to see check out trends for certain books. I searched for a few books and subjects that would be relevant to current events to see if the number of checkouts of these books changed. 
 
 City of Seattle Data Policy:
 
